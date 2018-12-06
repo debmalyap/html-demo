@@ -1,0 +1,30 @@
+h1
+{
+    text-align: center;
+    font-size: 120%;
+    font-family: verdana;
+}
+
+p
+{
+    text-align: center;
+    font-size: 100%;
+    border: 2px solid blue;
+    padding: 35px;
+}
+
+p
+{
+    text-align: center;
+    font-size: 100%;
+    border: 2px solid red;
+    padding: 35px;
+}
+
+p
+{
+    text-align: center;
+    font-size: 100%;
+    border: 2px solid green;
+    padding: 35px;
+}
