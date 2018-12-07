@@ -1,0 +1,25 @@
+.wrap
+{
+    background-color: aquamarine;
+    margin: auto;
+    width: 1000px;
+}
+
+.content
+{
+    background: lightcoral;
+    float: left;
+    height: 500px;
+}
+
+aside
+{
+    background: lightgreen;
+    height: 500px;
+}
+
+aside ul
+{
+    list-style: none;
+    text-align: left; 
+}
